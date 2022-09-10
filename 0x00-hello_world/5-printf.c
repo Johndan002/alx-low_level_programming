@@ -1,12 +1,13 @@
-#include <stdio.h>
-
-/**
- * main - Prints a text
+#include <stdio.h>                                                                                      
+                                                                                                        
+/**                                                                                                      * main - print the string in the put function
  *
- * Return: Always 0 (Success)
- */
-int main(void)
-{
-	printf("with proper grammar, but the outcome is a piece of art,\n");
-	return (0)
-}
+ * Description: using the main function
+ * this program prrints "Programming is like building a multilingual puzzle
+ * Return 0                                                                           
+ */                                                                                                     
+int main(void)                                                                                          
+{                                                                                                       
+        printf("with proper grammar, but the outcome is a piece of art,\n");                            
+        return (0);                                                                                     
+}   
