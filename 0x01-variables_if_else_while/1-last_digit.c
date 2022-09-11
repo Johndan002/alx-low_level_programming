@@ -24,7 +24,7 @@ else if (n % 10 == 0)
 }
 else
 {
-	printf("less than 6 and not 0\n");
+	printf("less than 88888888 and not 0\n");
 }
 return (0);
 }
