@@ -10,7 +10,7 @@
 char *leet(char *str)
 {
 	int i = 0;
-
+	
 	while (str[i] != '\0')
 	{
 		str[i] = transform(str[i]);
@@ -32,7 +32,7 @@ char transform(char x)
 	char mapping_upper[8] = {'O', 'L', '\0', 'E', 'A', '\0', '\0', 'T'};
 	int i = 0;
 	char replacement = x;
-
+	
 	while (i < 8)
 	{
 		if (x == mapping_low[i] || x == mapping_upper[i])
