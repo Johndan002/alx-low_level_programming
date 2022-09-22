@@ -2,9 +2,9 @@
 
 /**
  * leet - leet encoder
- * @str: The string to be encoded.
+ * @str: The string to be encoded
  *
- * Return: address of the encoded string.
+ * Return: address of the encoded string
  */
 
 char *leet(char *str)
